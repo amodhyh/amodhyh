@@ -23,6 +23,7 @@
 
 ### 🛠️  Tools that I have Used 
 
+## Web Dev
 <p align="center">
   
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -44,7 +45,9 @@
   ![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))
   ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   </p>
-  ### Ai and ML
+  
+  ## AI and ML Dev
+  
   <p align="center">
     
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
