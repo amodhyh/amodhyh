@@ -10,9 +10,9 @@
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=amodhyh&color=blue" alt="Profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=amodhyh&color=brightgreen&style=for-the-badge" alt="Profile views" />  
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=amodhyh&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />  
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=amodhyh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />  
   <!-- Streak Stats -->
