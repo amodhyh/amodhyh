@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️  Tools that I have Used 
+###   Tools that I have Used 
 
 ## Web Dev
 <p align="center">
