@@ -68,7 +68,9 @@
 
 ---
 
-
+### About Me
+<p align="center">I am a final-year B.Sc. Computer Engineering student at the University of Jaffna, where I’ve built a strong foundation in software development and AI/ML techniques. Fueled by a passion for innovation, I’m dedicated to designing and deploying intelligent systems that translate cutting-edge theory into meaningful, real-world solutions.
+</p>
 
 ### 🤝 Connect with Me
 
