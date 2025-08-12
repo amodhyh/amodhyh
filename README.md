@@ -13,10 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=amodhyh&color=brightgreen&style=for-the-badge" alt="Profile views" />  
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=amodhyh&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amodhyh&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0" alt="GitHub Stats" />  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amodhyh&theme=tokyonight&cache_seconds=0" alt="GitHub Streak" />
 </p>
 
 ---
