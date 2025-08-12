@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/amodhyh" target="_blank">Amodh Herath</a> </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&&duration=2000&color=06F700&center=true&vCenter=true&width=435&weight=900&lines=Passionate+Developer;AI+ML+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&&duration=2000&color=915ee3&center=true&vCenter=true&width=435&weight=900&lines=Passionate+Backend+Developer;AI+ML+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -57,7 +57,6 @@
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 </p>
-
 ---
 
 ###  Language Usage
