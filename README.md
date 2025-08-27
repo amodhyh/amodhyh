@@ -65,7 +65,7 @@
 ---
 
 ### About Me
-<p align="center">I am a final-year B.Sc. Computer Engineering student at the University of Jaffna, where I’ve built a strong foundation in software development and AI/ML techniques. Fueled by a passion for innovation, I’m dedicated to designing and deploying intelligent systems that translate cutting-edge theory into meaningful, real-world solutions.
+<p align="center">As a computer engineer with a strong foundation in backend systems, I'm passionate about building scalable and resilient applications using **Spring Boot**. My hands-on experience in designing and implementing RESTful APIs, managing microservices, and orchestrating containerized environments has given me a deep appreciation for robust, well-architected software. In parallel with my backend expertise, I have a keen interest in the fields of **AI and machine learning**. I actively explore how to integrate machine learning models into production systems, focusing on the practical challenges of deploying, monitoring, and maintaining these intelligent services. My goal is to bridge the gap between powerful analytical models and functional, real-world applications, creating intelligent systems that can learn and adapt.
 </p>
 
 ### Connect with Me
