@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=amodhyh&color=brightgreen&style=for-the-badge" alt="Profile views" />  
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=amodhyh&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />  
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amodhyh&theme=dark&border_radius=3.5&date_format=j%20M%5B%20Y%5D&background=30%2C5A0AAEAE%2C000000" alt="GitHub Streak" /></a></p>
 
 ---
 
