@@ -1,7 +1,7 @@
 # Amodh Herath: Architect of Scalable Backends & AI Innovator
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-placeholder-image-or-ascii-art-here" alt="Custom Banner: Code weaving through neural networks" width="800"/>
+  <img src="https://github.com/amodhyh/amodhyh/blob/main/img/codewithNN.png" alt="Custom Banner: Code weaving through neural networks" width="800"/>
 </div>
 
 <div align="center">
