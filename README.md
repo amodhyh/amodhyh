@@ -1,82 +1,115 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/amodhyh" target="_blank">Amodh Herath</a> </h1>
+# Amodh Herath: Architect of Scalable Backends & AI Innovator
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&&duration=2000&color=915ee3&center=true&vCenter=true&width=435&weight=900&lines=Passionate+Backend+Developer;AI+ML+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-placeholder-image-or-ascii-art-here" alt="Custom Banner: Code weaving through neural networks" width="800"/>
+</div>
 
----
-
-### Profile Metrics & Dashboard
-
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=amodhyh&color=brightgreen&style=for-the-badge" alt="Profile views" />  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=amodhyh&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amodhyh&theme=dark&border_radius=3.5&date_format=j%20M%5B%20Y%5D&background=30%2C5A0AAEAE%2C000000" alt="GitHub Streak" /></a></p>
+<div align="center">
+  <em>"In the code, we trust – but in AI, we evolve."</em>
+</div>
 
 ---
 
-###   Tools that I have Used 
+##  Launchpad: Who I Am
 
-## Web Dev
-<p align="center">
+I'm Amodh Herath, a third-year Computer Engineering student at the University of Jaffna, Sri Lanka. By day, I'm crafting resilient microservices with Spring Boot; by night, I'm diving into AI/ML to make systems smarter. From leading a Formula Student racing team to annotating Sinhala emotions for NLP models, my journey blends hardware grit with software elegance.
 
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-  </p>
-  
-  ## AI and ML Dev
-  
-  <p align="center">
-    
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-</p>
----
+- **Current Quest**: Building Sazzler – a microservices e-commerce empire with JWT security and Kafka whispers.
+- **Superpower**: Turning low-resource languages like Sinhala into AI playgrounds (check my final-year research below).
+- **Fun Fact**: I once optimized a brake system for a race car while debugging a CNN model – talk about multi-threading life!
 
-###  Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodhyh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amodhyh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amodhyh&theme=radical&hide_border=true" alt="Contribution Streak" />
+</div>
 
 ---
 
-### About Me
-<p align="center">As a computer engineer with a strong foundation in backend systems, I'm passionate about building scalable and resilient applications using Spring Boot . My hands-on experience in designing and implementing RESTful APIs, managing microservices, and orchestrating containerized environments has given me a deep appreciation for robust, well-architected software. In parallel with my backend expertise, I have a keen interest in the fields of AI and machine learning. I actively explore how to integrate machine learning models into production systems, focusing on the practical challenges of deploying, monitoring, and maintaining these intelligent services. My goal is to bridge the gap between powerful analytical models and functional, real-world applications, creating intelligent systems that can learn and adapt.
-</p>
+##  Arsenal: Tools & Tech I've Wielded
 
-### Connect with Me
+I've battled bugs across stacks. Here's my forge, grouped by realm:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasitha-herath-956748295"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:amodhwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" /></a>
-</p>
+### Backend & Web Forging
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div>
+
+### Data & Database Alchemy
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</div>
+
+### AI/ML Wizardry
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black" />
+</div>
+
+### DevOps & Workflow Mastery
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodhyh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</p>
+## 🌟 Odyssey: My Story in Code & Circuits
 
-<!-- Proudly created with ❤️ by AYH -->
+Picture this: A kid from Anuradhapura, Sri Lanka, who aced his O/Ls with 9As and dove into Physical Sciences for A/Ls . Fast-forward to University of Jaffna, where I'm pursuing a BSc in Computer Engineering (expected 2026). But stats don't tell the tale – it's the projects and pivots that do.
+
+In my racing days with Team Yarl (Formula Student), I wasn't just crunching numbers as Financial Manager; I engineered the low-voltage system, designed the Brake System Plausibility Device, and collaborated on the full electrical blueprint. It taught me: Systems fail fast without solid foundations – a lesson I carry to code.
+
+Today, my backend passion shines in projects like:
+- **Sazzler E-commerce Microservices**: A Spring Boot fortress with JWT auth, API Gateway, and planned Kafka/Prometheus integrations. [Dive in](https://github.com/amodhyh/sazzler).
+- **Emotion Recognition in Sinhala Texts**: My final-year research – a SinBERT-CNN hybrid hitting 72.6% accuracy on a custom 3,000+ sample dataset for low-resource NLP. Bridging cultural gaps with AI! (Details in attached progress report.)
+- **TARS IoT Bus Tracker**: React Native app for smart school transport – because efficiency starts at the wheels.
+- **DeptWise & Echobridge**: Department management and feedback systems, blending Node.js/React with PHP/MySQL.
+
+As Batch Rep, I led peers through chaos; as an intern hopeful, I'm ready to deploy AI in production pipelines. Let's build something unbreakable.
+
+---
+
+##  Portals: Connect & Collaborate
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yasitha-herath-956748295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amodhwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/amodhyh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+##  Enigma: A Code Riddle to Ponder
+
+```java
+public class LifeCode {
+    public static void main(String[] args) {
+        System.out.println("Debug life: " + (42 + " lines of code")); // What's the output? Hint: It's not 42.
+    }
+}
+```
+
+Solve it? DM me your answer – first correct one gets a virtual high-five!
+
+<div align="center">
+  <em>Crafted with circuits, code, and caffeine by Amodh. Inspired by neural nets and night skies.</em>
+</div>
