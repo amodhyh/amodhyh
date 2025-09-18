@@ -12,16 +12,11 @@
 
 ##  Launchpad: Who I Am
 
-I'm Amodh Herath, a third-year Computer Engineering student at the University of Jaffna, Sri Lanka. By day, I'm crafting resilient microservices with Spring Boot; by night, I'm diving into AI/ML to make systems smarter. From leading a Formula Student racing team to annotating Sinhala emotions for NLP models, my journey blends hardware grit with software elegance.
+I'm Amodh Herath, a final-year Computer Engineering student at the University of Jaffna, Sri Lanka. By day, I'm crafting resilient microservices with Spring Boot; by night, I'm diving into AI/ML to make systems smarter. From leading a Formula Student racing team to annotating Sinhala emotions for NLP models, my journey blends hardware grit with software elegance.
 
 - **Current Quest**: Building Sazzler – a microservices e-commerce empire with JWT security and Kafka whispers.
 - **Superpower**: Turning low-resource languages like Sinhala into AI playgrounds (check my final-year research below).
 - **Fun Fact**: I once optimized a brake system for a race car while debugging a CNN model – talk about multi-threading life!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amodhyh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amodhyh&theme=radical&hide_border=true" alt="Contribution Streak" />
-</div>
 
 ---
 
@@ -84,7 +79,7 @@ Today, my backend passion shines in projects like:
 - **TARS IoT Bus Tracker**: React Native app for smart school transport – because efficiency starts at the wheels.
 - **DeptWise & Echobridge**: Department management and feedback systems, blending Node.js/React with PHP/MySQL.
 
-As Batch Rep, I led peers through chaos; as an intern hopeful, I'm ready to deploy AI in production pipelines. Let's build something unbreakable.
+Let's build something unbreakable.
 
 ---
 
