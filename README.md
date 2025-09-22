@@ -14,7 +14,10 @@
 
 I'm Amodh Herath, a final-year Computer Engineering student at the University of Jaffna, Sri Lanka. By day, I'm crafting resilient microservices with Spring Boot; by night, I'm diving into AI/ML to make systems smarter. From leading a Formula Student racing team to annotating Sinhala emotions for NLP models, my journey blends hardware grit with software elegance.
 
-- **Current Quest**: Building Sazzler – a microservices e-commerce empire with JWT security and Kafka whispers.
+- **Current Quest**:
+  - Building Sazzler – a microservices e-commerce empire with JWT security and Kafka whispers.
+  - Building a garbage image classification web app: React frontend (drag‑and‑drop upload) + FastAPI backend serving the model. 
+                    
 - **Superpower**: Turning low-resource languages like Sinhala into AI playgrounds (check my final-year research below).
 - **Fun Fact**: I once optimized a brake system for a race car while debugging a CNN model – talk about multi-threading life!
 
