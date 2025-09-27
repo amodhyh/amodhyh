@@ -16,7 +16,7 @@ I'm Amodh Herath, a final-year Computer Engineering student at the University of
 
 - **Current Quest**:
   - Building Sazzler – a microservices e-commerce empire with JWT security and Kafka whispers.
-  - Building a garbage image classification web app: React frontend (drag‑and‑drop upload) + FastAPI backend serving the model. 
+     
                     
 - **Superpower**: Turning low-resource languages like Sinhala into AI playgrounds (check my final-year research below).
 - **Fun Fact**: I once optimized a brake system for a race car while debugging a CNN model – talk about multi-threading life!
@@ -79,6 +79,7 @@ In my racing days with Team Yarl (Formula Student), I wasn't just crunching numb
 Today, my backend passion shines in projects like:
 - **Sazzler E-commerce Microservices**: A Spring Boot fortress with JWT auth, API Gateway, and planned Kafka/Prometheus integrations. [Dive in](https://github.com/amodhyh/sazzler).
 - **Emotion Recognition in Sinhala Texts**: My final-year research – a SinBERT-CNN hybrid hitting 72.6% accuracy on a custom 3,000+ sample dataset for low-resource NLP. Bridging cultural gaps with AI! (Details in attached progress report.)
+-**Sortify**  a garbage image classification web app,my contribution for sustainable and greener future.
 - **TARS IoT Bus Tracker**: React Native app for smart school transport – because efficiency starts at the wheels.
 - **DeptWise & Echobridge**: Department management and feedback systems, blending Node.js/React with PHP/MySQL.
 
