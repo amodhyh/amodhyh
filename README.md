@@ -77,7 +77,7 @@ Picture this: A kid from Anuradhapura, Sri Lanka, who aced his O/Ls with 9As and
 In my racing days with Team Yarl (Formula Student), I wasn't just crunching numbers as Financial Manager; I engineered the low-voltage system, designed the Brake System Plausibility Device, and collaborated on the full electrical blueprint. It taught me: Systems fail fast without solid foundations – a lesson I carry to code.
 
 Today, my backend passion shines in projects like:
-- **Sazzler E-commerce Microservices**: A Spring Boot fortress with JWT auth, API Gateway, and planned Kafka/Prometheus integrations. [Dive in](https://github.com/amodhyh/sazzler).
+- **Sazzler E-commerce Microservices**: A Spring Boot fortress with JWT auth, API Gateway, and planned Kafka/Prometheus integrations. [Dive in](https://github.com/amodhyh/Project-Sazzler).
 - **Emotion Recognition in Sinhala Texts**: My final-year research – a SinBERT-CNN hybrid hitting 72.6% accuracy on a custom 3,000+ sample dataset for low-resource NLP. Bridging cultural gaps with AI! (Details in attached progress report.)
 -**Sortify**  a garbage image classification web app,my contribution for sustainable and greener future.
 - **TARS IoT Bus Tracker**: React Native app for smart school transport – because efficiency starts at the wheels.
