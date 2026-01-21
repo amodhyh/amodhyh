@@ -13,7 +13,7 @@
     <em>"Architecting scalable distributed systems that seamlessly integrate high-performance user interfaces with intelligent, data-driven decision models."</em>
   </p>
 
-  <p align="center">
+  <p>
     <a href="https://linkedin.com/in/amodhyh">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
     </a>
