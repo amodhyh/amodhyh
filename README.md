@@ -5,9 +5,8 @@
 
 <div align="center">
   <h3 align="center">
-    Computer Engineering Undergraduate UOJ 🇱🇰 <br/>
-    Software Engineer  
-  </h3>
+  <h3>Software Engineer | Computer Engineering Graduate</h3>
+  
 
   <p align="center">
     <em>"Architecting scalable distributed systems that seamlessly integrate high-performance user interfaces with intelligent, data-driven decision models."</em>
@@ -27,15 +26,16 @@
 
 ### About Me
 
-I am a final-year Computer Engineering student at the **University of Jaffna**, currently working as an Intern Software Engineer. My passion lies in the intersection of heavy-lifting backend systems and modern frontend architectures with real worl ML and AI usecases.
+My passion lies in the intersection of heavy-lifting backend systems with distributed systems and modern frontend architectures with real worl ML and AI usecases.
 
-I don't just write code; I design systems. I focus on building software that is robust and scalable.
+I don't just write code, I design systems. I focus on building software that is robust and scalable.
 
 * **Currently working on:**
-  - **Centurion** - an autonomous SRE agent that integrates Spring Boot, Python, and TypeScript to detect, analyze, and resolve microservice failures using Generative AI and human-in-the-loop workflows..
   - **Sazzler** - Ecommerce Microservices platform powered by Springboot
-  - **SpiderMind** - A scalable, distributed web crawler and RAG pipeline built with TypeScript, BullMQ, and Next.js 14.
-* **Deepening knowledge in:** Advanced Microservices Patterns & GenAI Integration with SRE.
+  - **Janus** - a secure AI Gateway that orchestrates autonomous agentic workflows,leveraging advanced web-crawling and information retrieval while enforcing a Zero-Trust security posture.
+ It provides a "Security Sandwich" that intercepts and sanitizes both incoming prompts and outgoing model responses to prevent injection attacks and sensitive data leakage in real-time.
+ 
+
 * **Offline:** You'll find me playing Cities Skyline 2 or catching up on Star Wars lore.
 
 ---
