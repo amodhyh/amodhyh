@@ -32,8 +32,7 @@ I don't just write code, I design systems. I focus on building software that is 
 
 * **Currently working on:**
   - **Sazzler** - Ecommerce Microservices platform powered by Springboot
-  - **Janus** - a secure AI Gateway that orchestrates autonomous agentic workflows,leveraging advanced web-crawling and information retrieval while enforcing a Zero-Trust security posture.
- It provides a "Security Sandwich" that intercepts and sanitizes both incoming prompts and outgoing model responses to prevent injection attacks and sensitive data leakage in real-time.
+  - **Janus** - Janus is a high-performance AI Security Gateway that functions as a Zero-Trust reverse proxy, enforcing real-time ingress validation and egress Data Leakage Prevention (DLP) to secure enterprise LLM traffic without compromising latency.
  
 
 * **Offline:** You'll find me playing Cities Skyline 2 or catching up on Star Wars lore.
