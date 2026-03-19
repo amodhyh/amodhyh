@@ -26,8 +26,7 @@
 
 ### About Me
 
-My passion lies in the intersection of heavy-lifting backend systems with distributed systems and modern frontend architectures with real worl ML and AI usecases.
-
+I'm interested in building distributed systems and event-driven backends with a focus on the infrastructure needed to operationalize AI models.
 I don't just write code, I design systems. I focus on building software that is robust and scalable.
 
 * **Currently working on:**
