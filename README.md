@@ -35,7 +35,7 @@ I don't just write code, I design systems. I focus on building software that is 
 * **Upcoming :**
   - **Centurion**  - Agentic Site Reliability tool
 
-* **Offline:** You'll find me playing Cities Skyline 2 or catching up on Star Wars lore and the Tolkien lore.
+* **Offline:** You'll find me Stronghold,Cities skylines II or catching up on Star Wars and Tolkien lores.
 
 ---
 
