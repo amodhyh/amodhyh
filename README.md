@@ -6,8 +6,8 @@
 <div align="center">
   <h3 align="center">
   <h3>Software Engineer | Computer Engineering Graduate</h3>
-  
-
+  <h3>Check out my<a href="https://amodhyh.vercel.app/"> portfolio </a> </h3>
+ 
   <p align="center">
     <em>"Architecting scalable distributed systems that seamlessly integrate high-performance user interfaces with intelligent, data-driven decision models."</em>
   </p>
