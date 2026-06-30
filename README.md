@@ -32,7 +32,6 @@ I don't just write code, I design systems. I focus on building software that is 
 * **Currently working on:**
   - **Sazzler** - Ecommerce Microservices platform powered by Springboot
   - **Janus** - Janus is a high-performance AI Security Gateway that functions as a Zero-Trust reverse proxy, enforcing real-time ingress validation and egress Data Leakage Prevention (DLP) to secure enterprise LLM traffic without compromising latency.
-* **Upcoming :**
   - **Centurion**  - Agentic Site Reliability tool
 
 * **Offline:** You'll find me Stronghold,Cities skylines II or catching up on Star Wars and Tolkien lores.
@@ -45,7 +44,7 @@ I don't just write code, I design systems. I focus on building software that is 
 
 | **Core & Backend** | **Frontend & Web** | **Data & AI** | **DevOps & Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,spring,kafka,c,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow,postgres,mysql,prisma&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,linux&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=java,fastapi,spring,kafka,c,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,mysql,prisma&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,linux&theme=dark" /> |
 
 </div>
 
