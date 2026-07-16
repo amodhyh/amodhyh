@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3 align="center">
-  <h3>Software Engineer | Computer Engineering Graduate</h3>
+  <h3>AI & Backend Software Engineer | Computer Engineering Graduate</h3>
   <h3>Check out my<a href="https://amodhyh.vercel.app/"> portfolio </a> </h3>
  
   <p align="center">
