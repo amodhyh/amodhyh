@@ -30,7 +30,6 @@ I'm interested in building distributed systems and event-driven backends with a 
 I don't just write code, I design systems. I focus on building software that is robust and scalable.
 
 * **Currently working on:**
-  - **Sazzler** - Ecommerce Microservices platform powered by Springboot
   - **Janus** - Janus is a high-performance AI Security Gateway that functions as a Zero-Trust reverse proxy, enforcing real-time ingress validation and egress Data Leakage Prevention (DLP) to secure enterprise LLM traffic without compromising latency.
   - **Centurion**  - Agentic Site Reliability tool
 
@@ -44,7 +43,7 @@ I don't just write code, I design systems. I focus on building software that is 
 
 | **Core & Backend** | **Frontend & Web** | **Data & AI** | **DevOps & Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,fastapi,spring,kafka,c,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,mysql,prisma&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,linux&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=java,fastapi,spring,kafka,python,golang,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,mysql,prisma&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,docker,aws,postman,vscode,linux&theme=dark" /> |
 
 </div>
 
@@ -61,6 +60,12 @@ A scalable e-commerce backend built with **Spring Boot** and **Java**.
 A full-stack solution to automate waste sorting.
 * **Tech:** TensorFlow (Model), FastAPI (Backend), React (Frontend).
 * **Outcome:** Real-time image processing and classification.
+
+#### 🚇 **[Transformers]**
+Recreation of transformer architecture from the paper "Attention is All You Need" from scratch.
+* **Tech:** Pytorch
+* **Outcome:** Understanding the transformer architecture and its implementation in depth.
+
 
 ---
 <br/>
